@@ -10,7 +10,7 @@ importers:
     dependencies:
       '@paddle/paddle-js':
         specifier: ^1.4.1
-        version: 1.4.1
+        version: 1.4.2
       '@radix-ui/react-accordion':
         specifier: ^1.2.11
         version: 1.2.11(@types/react-dom@19.1.6(@types/react@19.1.6))(@types/react@19.1.6)(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
@@ -397,8 +397,8 @@ packages:
     resolution: {integrity: sha512-nn5ozdjYQpUCZlWGuxcJY/KpxkWQs4DcbMCmKojjyrYDEAGy4Ce19NN4v5MduafTwJlbKc99UA8YhSVqq9yPZA==}
     engines: {node: '>=12.4.0'}
 
-  '@paddle/paddle-js@1.4.1':
-    resolution: {integrity: sha512-GKuXVnUAIGq4H1AxrPRRMZXl+pTSGiKMStpRlvF6+dv03BwhkqbyHJJZ39e6bMquVbYSa33/9cu6fuW8pie8aQ==}
+  '@paddle/paddle-js@1.4.2':
+    resolution: {integrity: sha512-pY9jYS+g3vk6ecc7GbCsVSuBEo1Yh+hxYE4i2XoY5/ZBAZLuCkQi/80hOmSBkFoaETohOpDmurILlQdgUHUcvw==}
 
   '@radix-ui/primitive@1.1.2':
     resolution: {integrity: sha512-XnbHrrprsNqZKQhStrSwgRUQzoCI1glLzdw79xiZPoofhGICeZRSQ3dIxAKH1gb3OHfNf4d6f+vAv3kil2eggA==}
@@ -2647,7 +2647,7 @@ snapshots:
 
   '@nolyfill/is-core-module@1.0.39': {}
 
-  '@paddle/paddle-js@1.4.1': {}
+  '@paddle/paddle-js@1.4.2': {}
 
   '@radix-ui/primitive@1.1.2': {}
 
